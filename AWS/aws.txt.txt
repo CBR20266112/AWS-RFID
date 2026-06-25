@@ -1,0 +1,4 @@
+﻿IP: 3.36.142.63
+ID: admin
+SSHKey: LightsailDefaultKey-ap-northeast-2.pem
+WebFolder: /var/www/html
